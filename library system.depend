@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707726818 source:g:\coding in c\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+
